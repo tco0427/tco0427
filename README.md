@@ -1,12 +1,29 @@
-### 단국대학교 컴퓨터공학과 김동규
+<h1 align="center"> 단국대학교 컴퓨터공학과 김동규 </h1>
 
-- 🌱 I’m currently learning ... 
-<br>  -> Spring Framework
+  I'm a student who dreams of becoming a backend developer. 😄
+
+- 🌱 I’m currently learning ... <br>
+  -> Spring Framework
 
 - 🔭 What I'm interested in is ...<br>
   - Clean Coding<br>
   - Design Pattern<br>
   - How to do a good job of maintenance
+
+## 🛠 Tech Stack 🛠
+
+Techs that I've used at least once
+
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>   
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
+  <br>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tco0427&show_icons=true&theme=radical)
