@@ -1,5 +1,11 @@
-### Hi there 👋
+### 단국대학교 컴퓨터공학과 김동규
 
+- 🌱 I’m currently learning ... <br>
+  -> Spring Framework
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tco0427&show_icons=true&theme=radical)
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftco0427&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <!--
 **tco0427/tco0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
