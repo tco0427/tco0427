@@ -1,7 +1,13 @@
 ### 단국대학교 컴퓨터공학과 김동규
 
-- 🌱 I’m currently learning ... <br>
-  -> Spring Framework
+- 🌱 I’m currently learning ... 
+<br>  -> Spring Framework
+
+- 🔭 What I'm interested in is ...<br>
+  - Clean Coding<br>
+  - Design Pattern<br>
+  - How to do a good job of maintenance
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tco0427&show_icons=true&theme=radical)
 
