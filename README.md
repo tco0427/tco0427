@@ -1,14 +1,20 @@
 <h1 align="center"> 단국대학교 컴퓨터공학과 김동규 </h1>
 
-  I'm a student who dreams of becoming a backend developer. 😄
+## I'm a student who dreams of becoming a backend developer. 😄
 
 - 🌱 I’m currently learning ... <br>
-  -> Spring Framework
+  -> Spring Framework<br>
+  -> Algorithm
 
 - 🔭 What I'm interested in is ...<br>
-  - Clean Coding<br>
-  - Design Pattern<br>
-  - How to do a good job of maintenance
+  -> Clean Coding<br>
+  -> Design Pattern<br>
+  -> How to do a good job of maintenance
+
+## Goal of 2021
+- Get used to Spring Framework
+- Building Project Experience
+- Making Good Coding Habits
 
 ## 🛠 Tech Stack 🛠
 
