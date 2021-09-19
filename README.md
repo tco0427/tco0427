@@ -3,8 +3,9 @@
 ## I'm a student who dreams of becoming a backend developer. 😄
 
 - 🌱 I’m currently learning ... <br>
-  -> Spring Framework<br>
-  -> Algorithm
+  -> Spring Framework & JPA<br>
+  -> Algorithm<br>
+  -> Distributed System
 
 - 🔭 What I'm interested in is ...<br>
   -> Clean Coding<br>
