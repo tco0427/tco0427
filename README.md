@@ -13,9 +13,12 @@
   -> How to do a good job of maintenance
 
 ## Goal of 2021
-- Get used to Spring Framework
-- Building Project Experience
-- Making Good Coding Habits
+- Master Spring Framework
+- Always think about the code that’s readable
+- Thinking about good codes all the time
+- Making good coding habits
+- Learn a lot from “우아한 테크 코스”
+- Making good colleagues in “우아한 테크 코스”
 
 ## 🛠 Tech Stack 🛠
 
