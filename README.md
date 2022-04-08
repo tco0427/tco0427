@@ -1,4 +1,4 @@
-<h1 align="center"> 단국대학교 컴퓨터공학과 김동규 </h1>
+<h1 align="center"> 우아한테크코스 4기 백엔드 크루, 디우(김동규) </h1>
 
 ## I'm a student who dreams of becoming a backend developer. 😄
 
