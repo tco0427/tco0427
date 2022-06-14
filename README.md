@@ -3,22 +3,20 @@
 ## I'm a student who dreams of becoming a backend developer. 😄
 
 - 🌱 I’m currently learning ... <br>
-  -> Spring Framework & JPA<br>
-  -> Algorithm<br>
-  -> Distributed System
+  -> Spring Framework <br>
+  -> JPA
 
 - 🔭 What I'm interested in is ...<br>
   -> Clean Coding<br>
-  -> Design Pattern<br>
+  -> How can I communicate better
   -> How to do a good job of maintenance
 
 ## Goal of 2022
 - Master Spring Framework
 - Always think about the code that’s readable
 - Thinking about good codes all the time
-- Making good coding habits
-- Learn a lot from “우아한 테크 코스”
-- Making good colleagues in “우아한 테크 코스”
+- Find a reason in the code
+- Thinking about "Why" all the time
 
 ## 🛠 Tech Stack 🛠
 
