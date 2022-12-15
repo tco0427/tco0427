@@ -1,6 +1,6 @@
 <h1 align="center"> 우아한형제들 백엔드 개발자, 김동규(디우) </h1>
 
-## I'm a student who dreams of becoming a backend developer. 😄
+## I'm a developer who grows by sharing. 😄
 
 - 🌱 I’m currently learning ... <br>
   -> Spring Framework <br>
