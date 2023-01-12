@@ -3,20 +3,18 @@
 ## I'm a developer who grows by sharing. 😄
 
 - 🌱 I’m currently learning ... <br>
-  -> Spring Framework <br>
-  -> JPA
+  -> Spring WebFlux <br>
+  -> R2DBC
 
 - 🔭 What I'm interested in is ...<br>
-  -> Clean Coding<br>
-  -> How can I communicate better
-  -> How to do a good job of maintenance
+  -> MSA<br>
+  -> Domain Driven Design<br>
 
-## Goal of 2022
-- Master Spring Framework
-- Always think about the code that’s readable
-- Thinking about good codes all the time
-- Find a reason in the code
-- Thinking about "Why" all the time
+## Goal of 2023
+- 팀에 잘 녹아들기
+- Spring WebFlux 능숙하게 사용하기
+- 바쁘더라도 좋은 코드, 좋은 구조에 대해서 항상 생각하기
+- 다른 사람들에게 어떤 방식으로든 기여하기
 
 ## 🛠 Tech Stack 🛠
 
