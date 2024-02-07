@@ -3,17 +3,17 @@
 ## I'm a developer who grows by sharing. 😄
 
 - 🌱 I’m currently learning ... <br>
-  -> Spring WebFlux <br>
-  -> R2DBC
+  -> DataStoer(ES, redis, ..) <br>
+  -> Messaging(Kafka, SQS, SNS, ..) <br>
+  -> Java 17
 
 - 🔭 What I'm interested in is ...<br>
-  -> MSA<br>
-  -> Domain Driven Design<br>
+  -> Kotlin<br>
+  -> Docker<br>
 
-## Goal of 2023
-- 팀에 잘 녹아들기
+## Goal of 2024
+- 작년보다 더 나은 구성원 되기
 - 공부 꾸준히 지속하기
-- 팀원분들과 스터디 한 개 이상 진행하기
 - 바쁘더라도 좋은 코드, 좋은 구조에 대해서 항상 생각하기
 
 ## 🛠 Tech Stack 🛠
