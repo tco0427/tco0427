@@ -1,5 +1,3 @@
-<h1 align="center"> 김동규 </h1>
-
 ## I'm a developer who grows by sharing. 😄
 
 - 🌱 I’m currently learning ... <br>
